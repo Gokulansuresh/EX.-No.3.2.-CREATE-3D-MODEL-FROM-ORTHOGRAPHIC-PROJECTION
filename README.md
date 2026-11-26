@@ -20,6 +20,7 @@ Step 1: Study the given drawing
 ● Note all the dimensions, circular portions, holes and curved surfaces.
 
 ● Select a suitable scale according to the drawing sheet.
+<img width="547" height="307" alt="Screenshot 2026-10-12 105818" src="https://github.com/user-attachments/assets/8ac6fff6-1746-4488-a07f-2e33c5a6a099" />
 
 Step 2: Draw the Front View
 
@@ -92,6 +93,7 @@ Step 4: Finishing the Drawing
 ● Erase unwanted construction lines.
 
 ● Check the alignment and accuracy of all three views.
+<img width="488" height="360" alt="Screenshot 2026-10-08 210945" src="https://github.com/user-attachments/assets/a06c531a-0e35-4918-af87-b31b1ec373db" />
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
